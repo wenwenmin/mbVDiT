@@ -11,7 +11,7 @@ In this paper, we introduce a novel method for microbiome data imputation, mbVDi
 * ``pip install -r requiremnts.txt``
 
 ## Data preprocessing
-If you wish to perform data preprocessing, you can run the script in the Jupyter folder.
+If you wish to perform data preprocessing, you can run the script in the Jupyter folder (TCMADiT).
 
 ## Training mbVDiT
 ``python main.py``
